@@ -1,2 +1,1 @@
-# BlackJack
-BlackJack game implemented in Prologue programming language
+Expert system for PC configuration.
